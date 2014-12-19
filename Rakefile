@@ -1,4 +1,4 @@
-re "bundler/gem_tasks"
+require "bundler/gem_tasks"
 
 $:.unshift File.dirname(__FILE__) + 'lib'
 
