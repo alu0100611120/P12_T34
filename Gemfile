@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'rake'
 gem 'bundler'
+gem 'rake'
 gem 'rspec'
 gem 'guard'
 gem 'thread'
